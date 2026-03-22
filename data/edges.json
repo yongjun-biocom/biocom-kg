@@ -1,0 +1,2683 @@
+[
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-001"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-002"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-003"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-004"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-005"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-006"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-007"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-008"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-009"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-010"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-011"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-012"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-013"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-014"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-015"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-016"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-017"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-018"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-019"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-020"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-021"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-022"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-023"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-024"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-025"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-026"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-027"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-028"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-029"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-030"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-031"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-032"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-033"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-034"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-035"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-036"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-037"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-038"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-039"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-040"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-041"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-042"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-043"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-044"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-045"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-046"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-047"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-048"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-049"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-050"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-051"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-052"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-053"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-054"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-055"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-056"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-057"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-058"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-059"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-060"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-061"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-062"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-063"
+  },
+  {
+    "type": "E01_측정",
+    "source": "EX-01",
+    "target": "BM-OA-064"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-004",
+    "target": "EN-01"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-018",
+    "target": "EN-02"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-016",
+    "target": "EN-04"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-026",
+    "target": "EN-07"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-011",
+    "target": "EN-08"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-034",
+    "target": "EN-10"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-035",
+    "target": "EN-11"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-055",
+    "target": "EN-13"
+  },
+  {
+    "type": "E08_관련효소",
+    "source": "BM-OA-036",
+    "target": "EN-12"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-01",
+    "target": "NT-01"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-01",
+    "target": "NT-02"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-01",
+    "target": "NT-03"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-01",
+    "target": "NT-04"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-01",
+    "target": "NT-13"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-02",
+    "target": "NT-11"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-02",
+    "target": "NT-02"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-03",
+    "target": "NT-01"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-03",
+    "target": "NT-02"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-03",
+    "target": "NT-03"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-03",
+    "target": "NT-04"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-03",
+    "target": "NT-13"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-05",
+    "target": "NT-01"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-05",
+    "target": "NT-02"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-05",
+    "target": "NT-03"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-05",
+    "target": "NT-04"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-05",
+    "target": "NT-13"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-06",
+    "target": "NT-06"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-07",
+    "target": "NT-06"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-08",
+    "target": "NT-20"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-09",
+    "target": "NT-05"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-09",
+    "target": "NT-14"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-10",
+    "target": "NT-05"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-10",
+    "target": "NT-15"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-11",
+    "target": "NT-09"
+  },
+  {
+    "type": "E10_조효소",
+    "source": "EN-13",
+    "target": "NT-05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-001",
+    "target": "CL-OA-M01"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-002",
+    "target": "CL-OA-M01"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-003",
+    "target": "CL-OA-M01"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-004",
+    "target": "CL-OA-M02"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-005",
+    "target": "CL-OA-M02"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-006",
+    "target": "CL-OA-M03"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-007",
+    "target": "CL-OA-M03"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-008",
+    "target": "CL-OA-M03"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-009",
+    "target": "CL-OA-M03"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-010",
+    "target": "CL-OA-M04"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-011",
+    "target": "CL-OA-M04"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-012",
+    "target": "CL-OA-M04"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-013",
+    "target": "CL-OA-M04"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-014",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-015",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-016",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-017",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-018",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-019",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-020",
+    "target": "CL-OA-M05"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-021",
+    "target": "CL-OA-M06"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-022",
+    "target": "CL-OA-M06"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-023",
+    "target": "CL-OA-M07"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-024",
+    "target": "CL-OA-M07"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-024",
+    "target": "CL-OA-M18"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-025",
+    "target": "CL-OA-M07"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-025",
+    "target": "CL-OA-M16"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-026",
+    "target": "CL-OA-M08"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-027",
+    "target": "CL-OA-M08"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-028",
+    "target": "CL-OA-M08"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-028",
+    "target": "CL-OA-M09"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-029",
+    "target": "CL-OA-M09"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-030",
+    "target": "CL-OA-M09"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-031",
+    "target": "CL-OA-M09"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-032",
+    "target": "CL-OA-M09"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-033",
+    "target": "CL-OA-M10"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-034",
+    "target": "CL-OA-M10"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-035",
+    "target": "CL-OA-M10"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-036",
+    "target": "CL-OA-M10"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-036",
+    "target": "CL-OA-M11"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-037",
+    "target": "CL-OA-M10"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-037",
+    "target": "CL-OA-M11"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-038",
+    "target": "CL-OA-M11"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-039",
+    "target": "CL-OA-M12"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-040",
+    "target": "CL-OA-M12"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-041",
+    "target": "CL-OA-M12"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-042",
+    "target": "CL-OA-M12"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-043",
+    "target": "CL-OA-M12"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-044",
+    "target": "CL-OA-M12"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-045",
+    "target": "CL-OA-M13"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-046",
+    "target": "CL-OA-M13"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-047",
+    "target": "CL-OA-M13"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-048",
+    "target": "CL-OA-M13"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-049",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-050",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-051",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-052",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-053",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-054",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-055",
+    "target": "CL-OA-M14"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-055",
+    "target": "CL-OA-M19"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-056",
+    "target": "CL-OA-M15"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-057",
+    "target": "CL-OA-M15"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-058",
+    "target": "CL-OA-M15"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-059",
+    "target": "CL-OA-M15"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-060",
+    "target": "CL-OA-M16"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-060",
+    "target": "CL-OA-M17"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-061",
+    "target": "CL-OA-M17"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-062",
+    "target": "CL-OA-M18"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-063",
+    "target": "CL-OA-M19"
+  },
+  {
+    "type": "E11_소속",
+    "source": "BM-OA-064",
+    "target": "CL-OA-M19"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-001",
+    "target": "NT-12",
+    "basis": "카르니틴 셔틀 부족→β-산화 저하→ω-산화 우회",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-002",
+    "target": "NT-12",
+    "basis": "카르니틴 셔틀 부족→β-산화 과부하",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-003",
+    "target": "NT-12",
+    "basis": "단쇄 β-산화 처리 부담",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-003",
+    "target": "NT-11",
+    "basis": "ETF-Complex II 연계",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-01",
+    "basis": "PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-02",
+    "basis": "PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-03",
+    "basis": "PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-04",
+    "basis": "PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-13",
+    "basis": "PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-005",
+    "target": "NT-01",
+    "basis": "PDH 정체→젖산 우회. PDH 조효소 보충으로 개선",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-006",
+    "target": "NT-01",
+    "basis": "BCKD 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-006",
+    "target": "NT-02",
+    "basis": "BCKD 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-006",
+    "target": "NT-03",
+    "basis": "BCKD 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-006",
+    "target": "NT-04",
+    "basis": "BCKD 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-006",
+    "target": "NT-13",
+    "basis": "BCKD 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-006",
+    "target": "NT-11",
+    "basis": "류신 하류 3-MGC/3-MGA→CoQ10 결핍 시사",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-007",
+    "target": "NT-06",
+    "basis": "MCC 조효소. 비오틴 결핍의 전형적 마커",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-011",
+    "target": "NT-08",
+    "basis": "프로피오닐-CoA→숙시닐-CoA 전환",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-011",
+    "target": "NT-01",
+    "basis": "BCKD 관련",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-014",
+    "target": "NT-20",
+    "basis": "아코니타제 조효소(Fe-S 클러스터)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-014",
+    "target": "NT-03",
+    "basis": "IDH 조효소(NAD+)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-017",
+    "target": "NT-01",
+    "basis": "AKGDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-017",
+    "target": "NT-02",
+    "basis": "AKGDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-017",
+    "target": "NT-03",
+    "basis": "AKGDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-017",
+    "target": "NT-04",
+    "basis": "AKGDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-017",
+    "target": "NT-13",
+    "basis": "AKGDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-018",
+    "target": "NT-02",
+    "basis": "SDH(Complex II) 조효소(FAD)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-018",
+    "target": "NT-11",
+    "basis": "SDH(Complex II) 전자전달",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-020",
+    "target": "NT-03",
+    "basis": "MDH 조효소(NAD+)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-023",
+    "target": "NT-07",
+    "basis": "피리미딘 분해/메틸화 연계",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-023",
+    "target": "NT-08",
+    "basis": "메틸화 회로 연계",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-026",
+    "target": "NT-08",
+    "basis": "메틸말로닐-CoA 뮤타제 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-029",
+    "target": "NT-14",
+    "basis": "세로토닌 전구체",
+    "evidence_level": "참고"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-030",
+    "target": "NT-14",
+    "basis": "키누레닌 경로 원료",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-027",
+    "target": "NT-14",
+    "basis": "키누레닌 경로 원료",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-032",
+    "target": "NT-05",
+    "basis": "키누레니나제 조효소. B6 결핍시 XAN↑",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-032",
+    "target": "NT-14",
+    "basis": "트립토판 대사 산물",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-028",
+    "target": "NT-14",
+    "basis": "키누레닌 경로 분기",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-028",
+    "target": "NT-19",
+    "basis": "피콜린산은 아연 킬레이터",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-028",
+    "target": "NT-20",
+    "basis": "피콜린산은 철 킬레이터",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-15",
+    "basis": "페닐알라닌→티로신 전환 관련",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-02",
+    "basis": "PAH 효소 보조",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-004",
+    "target": "NT-03",
+    "basis": "PAH 효소 보조(BH4 재생)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-034",
+    "target": "NT-15",
+    "basis": "도파민 전구체",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-035",
+    "target": "NT-09",
+    "basis": "DBH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-036",
+    "target": "NT-15",
+    "basis": "도파민 대사 관련/장뇌축",
+    "evidence_level": "참고"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-039",
+    "target": "NT-14",
+    "basis": "유해균에 의한 트립토판 부패 산물",
+    "evidence_level": "참고"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-040",
+    "target": "NT-15",
+    "basis": "유해균에 의한 티로신 부패 산물",
+    "evidence_level": "참고"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-044",
+    "target": "NT-15",
+    "basis": "유해균에 의한 티로신 부패 산물",
+    "evidence_level": "참고"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-055",
+    "target": "NT-05",
+    "basis": "글리옥실산→글리신 전환(AGT 효소 조효소)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-055",
+    "target": "NT-17",
+    "basis": "옥살산 결합/배출 보조",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-056",
+    "target": "NT-16",
+    "basis": "Phase II 해독 소모",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-057",
+    "target": "NT-16",
+    "basis": "Phase II 해독 소모",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-058",
+    "target": "NT-16",
+    "basis": "Phase II 해독 소모",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-059",
+    "target": "NT-16",
+    "basis": "Phase II 해독 소모",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-060",
+    "target": "NT-16",
+    "basis": "글루타치온 소모→감마글루타밀 회로 과활성→PGA↑",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-060",
+    "target": "NT-18",
+    "basis": "글루타치온 퍼옥시다제 활성 보조",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-061",
+    "target": "NT-15",
+    "basis": "티로신 대사 산물(HGD 효소 관련)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-062",
+    "target": "NT-16",
+    "basis": "글루타치온 재합성 시 부산물",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-024",
+    "target": "NT-02",
+    "basis": "DNA 손상/회전 증가 시 관련",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-063",
+    "target": "NT-14",
+    "basis": "리신/트립토판 대사(콜라겐 합성 연계)",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-005",
+    "target": "NT-02",
+    "basis": "PDH 정체→젖산 우회. PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-005",
+    "target": "NT-03",
+    "basis": "PDH 정체→젖산 우회. PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-005",
+    "target": "NT-04",
+    "basis": "PDH 정체→젖산 우회. PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-005",
+    "target": "NT-13",
+    "basis": "PDH 정체→젖산 우회. PDH 조효소",
+    "evidence_level": "확정"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-018",
+    "target": "NT-20",
+    "basis": "SDH Fe-S 클러스터",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E09_필요영양소",
+    "source": "BM-OA-014",
+    "target": "NT-17",
+    "basis": "CS/아코니타제 Mg 필요",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-001",
+    "target": "HC-01",
+    "context": "지방산 대사 (β-산화 정체 → ω-산화 우회 증가(디카복실산))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-002",
+    "target": "HC-01",
+    "context": "지방산 대사 (β-산화 정체 → ω-산화 우회 증가(디카복실산))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-003",
+    "target": "HC-01",
+    "context": "지방산 대사 (단쇄지방산/ETF-Complex II 연계 병목)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-004",
+    "target": "HC-01",
+    "context": "탄수화물 대사 (해당-미토 관문(PDH 입구))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-005",
+    "target": "HC-01",
+    "context": "탄수화물 대사 (무산소 대체 경로(젖산))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-006",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 합성 (BCAA(류신) 1차 관문)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-007",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 합성 (BCAA(류신) 중간 병목)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-008",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 합성 (BCAA(류신) 하류 누수)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-009",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 합성 (BCAA(류신) 우회/정체 확인)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-010",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 손실 방어 (BCAA(이소류신) 1차 관문)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-011",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 손실 방어 (BCAA 하류 프로피오닐-CoA 축적(TCA 편입 병목)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-012",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 손실 방어 (BCAA(발린) 1차 관문)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-013",
+    "target": "HC-01",
+    "context": "단백질 대사: 근육 손실 방어 (BCAA 보조/우회 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-014",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 유입)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-015",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 유입)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-016",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 증폭)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-017",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 증폭)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-018",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 증폭)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-019",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 재생)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-020",
+    "target": "HC-01",
+    "context": "에너지 대사(탄단지 연소) (TCA 재생)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-021",
+    "target": "HC-01",
+    "context": "케톤 대사 (케톤 생성·사용)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-022",
+    "target": "HC-01",
+    "context": "케톤 대사 (케톤 대사 효율(누수/정체))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-023",
+    "target": "HC-08",
+    "context": "유전자 합성 (RNA 회전/피리미딘 분해(엽산·메틸화 연계))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-024",
+    "target": "HC-08",
+    "context": "유전자 합성 (DNA 합성/회전(피리미딘))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-025",
+    "target": "HC-08",
+    "context": "유전자 합성 (피리미딘 합성)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-026",
+    "target": "HC-08",
+    "context": "유전자 수리·복구 (B12 의존 프로피오네이트 대사(메틸말로닐-CoA 전환)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-027",
+    "target": "HC-08",
+    "context": "유전자 수리·복구 (NAD+ 합성(키뉴레닌))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-028",
+    "target": "HC-08",
+    "context": "유전자 수리·복구 (키뉴레닌 분기(피콜린산))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-029",
+    "target": "HC-04",
+    "context": "불안 및 우울감 (세로토닌 대사(회전율))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-030",
+    "target": "HC-04",
+    "context": "불안 및 우울감 (키누레닌 경로(신경 염증 조절))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-031",
+    "target": "HC-04",
+    "context": "불안 및 우울감 (키누레닌 경로(신경 염증/흥분성))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-032",
+    "target": "HC-04",
+    "context": "불안 및 우울감 (신경 염증 및 트립토판 고갈)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-028",
+    "target": "HC-04",
+    "context": "불안 및 우울감 (신경 염증 및 트립토판 고갈)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-033",
+    "target": "HC-04",
+    "context": "집중력 및 의욕 (티로신 전구체 단계(페닐알라닌 대사))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-034",
+    "target": "HC-04",
+    "context": "집중력 및 의욕 (도파민 대사(회전율))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-035",
+    "target": "HC-04",
+    "context": "집중력 및 의욕 (노르에피네프린 대사(회전율))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-036",
+    "target": "HC-04",
+    "context": "집중력 및 의욕 (도파민→노르에피네프린 전환 균형(장뇌축 보조지표 포함))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-037",
+    "target": "HC-04",
+    "context": "집중력 및 의욕 (도파민→노르에피네프린 전환 균형(장뇌축 보조지표 포함))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-036",
+    "target": "HC-03",
+    "context": "장뇌축 (클로스트리디아(장내 유해균) 및 신경계 방해 마커(Cl)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-037",
+    "target": "HC-03",
+    "context": "장뇌축 (클로스트리디아(장내 유해균) 및 신경계 방해 마커(Cl)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-038",
+    "target": "HC-03",
+    "context": "장뇌축 (클로스트리디아(장내 유해균) 및 신경계 방해 마커(Cl)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-039",
+    "target": "HC-03",
+    "context": "장내 유해균 (장내 유해균에 의한 아미노산 부패)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-040",
+    "target": "HC-03",
+    "context": "장내 유해균 (장내 유해균에 의한 아미노산 부패)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-041",
+    "target": "HC-03",
+    "context": "장내 유해균 (장내 유해균에 의한 아미노산 부패)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-042",
+    "target": "HC-03",
+    "context": "장내 유해균 (장내 유해균에 의한 아미노산 부패)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-043",
+    "target": "HC-03",
+    "context": "장내 유해균 (장내 유해균에 의한 아미노산 부패)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-044",
+    "target": "HC-03",
+    "context": "장내 유해균 (장내 유해균에 의한 아미노산 부패)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-045",
+    "target": "HC-03",
+    "context": "장 독소 (장내 유해균이 만드는 독소 노출)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-046",
+    "target": "HC-03",
+    "context": "장 독소 (장내 유해균이 만드는 독소 노출)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-047",
+    "target": "HC-03",
+    "context": "장 독소 (장내 유해균이 만드는 독소 노출에 의한 해독 부하)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-048",
+    "target": "HC-03",
+    "context": "장 독소 (장내 유해균이 만드는 독소 노출에 의한 해독 부하)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-049",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (칸디다 등 장내 곰팡이 / 효모의 당 발효 대사 부산물)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-050",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (칸디다 등 장내 곰팡이 / 효모의 당 발효 대사 부산물)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-051",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (아스퍼길루스 곰팡이 감염 또는 노출 지표(푸란 계열 화)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-052",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (아스퍼길루스 곰팡이 감염 또는 노출 지표(푸란 계열 화)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-053",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (아스퍼길루스 곰팡이 감염 또는 노출 지표(푸란 계열 화)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-054",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (마이코톡신(TRCB))",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-055",
+    "target": "HC-03",
+    "context": "장내 곰팡이 (옥살산 과잉)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-056",
+    "target": "HC-07",
+    "context": "환경 독소 노출 (외부 유해 물질(환경 독소) 노출 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-057",
+    "target": "HC-07",
+    "context": "환경 독소 노출 (외부 유해 물질(환경 독소) 노출 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-058",
+    "target": "HC-07",
+    "context": "환경 독소 노출 (외부 유해 물질(환경 독소) 노출 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-059",
+    "target": "HC-07",
+    "context": "환경 독소 노출 (외부 유해 물질(환경 독소) 노출 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-060",
+    "target": "HC-07",
+    "context": "해독 부하 (독소 노출에 의한 전신 스트레스)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-025",
+    "target": "HC-07",
+    "context": "해독 부하 (독소 노출에 의한 전신 스트레스)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-060",
+    "target": "HC-08",
+    "context": "항산화 기능 (산화 스트레스 증가 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-061",
+    "target": "HC-08",
+    "context": "항산화 기능 (산화 스트레스 증가 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-062",
+    "target": "HC-08",
+    "context": "노화 심각도 (산화 스트레스 증가 지표)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-063",
+    "target": "HC-08",
+    "context": "콜라겐 밸런스 (콜라겐 합성 / 리신)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-064",
+    "target": "HC-08",
+    "context": "콜라겐 밸런스 (콜라겐 합성 / 리신)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-055",
+    "target": "HC-08",
+    "context": "콜라겐 밸런스 (콜라겐 파괴)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-018",
+    "target": "HC-02",
+    "context": "TCA 회로 에너지 생산 정체",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-004",
+    "target": "HC-02",
+    "context": "PDH 관문 병목→에너지 전환 장애",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-005",
+    "target": "HC-02",
+    "context": "무산소 대사 우회→에너지 비효율",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-014",
+    "target": "HC-02",
+    "context": "TCA 유입 상태",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-016",
+    "target": "HC-02",
+    "context": "TCA 증폭 상태",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-017",
+    "target": "HC-02",
+    "context": "TCA 증폭 상태",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-019",
+    "target": "HC-02",
+    "context": "TCA 재생 상태",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-020",
+    "target": "HC-02",
+    "context": "TCA 재생 상태",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-027",
+    "target": "HC-08",
+    "context": "NAD+ 합성 경로(키누레닌)",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-003",
+    "target": "HC-02",
+    "context": "ETF-Complex II 연계→미토콘드리아 에너지",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-021",
+    "target": "HC-02",
+    "context": "케톤체 에너지원 활용",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-007",
+    "target": "HC-02",
+    "context": "류신 대사 정체→에너지 원료 손실",
+    "evidence_level": "강함"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-029",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-036",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-037",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-039",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-045",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-047",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-048",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E12_관련관심사",
+    "source": "BM-OA-056",
+    "target": "HC-06",
+    "context": "장내 유해균/독소 → 면역 기능 저하",
+    "evidence_level": "중간"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-17",
+    "target": "SP-01",
+    "amount": "315",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-19",
+    "target": "SP-01",
+    "amount": "12",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-18",
+    "target": "SP-01",
+    "amount": "100",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-21",
+    "target": "SP-01",
+    "amount": "200",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-10",
+    "target": "SP-01",
+    "amount": "5",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-14",
+    "target": "SP-05",
+    "amount": "200",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-17",
+    "target": "SP-05",
+    "amount": "250",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-05",
+    "target": "SP-05",
+    "amount": "10",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-08",
+    "target": "SP-05",
+    "amount": "10",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-01",
+    "target": "SP-02",
+    "amount": "5",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-02",
+    "target": "SP-02",
+    "amount": "5",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-03",
+    "target": "SP-02",
+    "amount": "15",
+    "unit": "mgNE"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-04",
+    "target": "SP-02",
+    "amount": "5",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-05",
+    "target": "SP-02",
+    "amount": "5",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-06",
+    "target": "SP-02",
+    "amount": "500",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-09",
+    "target": "SP-02",
+    "amount": "100",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-21",
+    "target": "SP-02",
+    "amount": "7",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-08",
+    "target": "SP-02",
+    "amount": "0.27",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-07",
+    "target": "SP-02",
+    "amount": "50",
+    "unit": "µgDFE"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-06",
+    "target": "SP-08",
+    "amount": "600",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-19",
+    "target": "SP-08",
+    "amount": "10",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-23",
+    "target": "SP-08",
+    "amount": "0.8",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-10",
+    "target": "SP-04",
+    "amount": "700",
+    "unit": "µgRE"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-03",
+    "target": "SP-04",
+    "amount": "15",
+    "unit": "mgNE"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-09",
+    "target": "SP-04",
+    "amount": "100",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-10",
+    "target": "SP-04",
+    "amount": "11",
+    "unit": "mgα-TE"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-07",
+    "target": "SP-04",
+    "amount": "680",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-19",
+    "target": "SP-04",
+    "amount": "8.5",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-19",
+    "target": "SP-09",
+    "amount": "8.5",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-16",
+    "target": "SP-03",
+    "amount": "200",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-09",
+    "target": "SP-03",
+    "amount": "20",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-10",
+    "target": "SP-03",
+    "amount": "21",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-11",
+    "target": "SP-DV-01",
+    "amount": "300",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-10",
+    "target": "SP-DV-01",
+    "amount": "3.4",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-12",
+    "target": "SP-DV-02",
+    "amount": "500",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-11",
+    "target": "SP-DV-02",
+    "amount": "30",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-09",
+    "target": "SP-DV-03",
+    "amount": "100",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-01",
+    "target": "SP-DV-03",
+    "amount": "50",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-02",
+    "target": "SP-DV-03",
+    "amount": "25",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-03",
+    "target": "SP-DV-03",
+    "amount": "75",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-04",
+    "target": "SP-DV-03",
+    "amount": "250",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-05",
+    "target": "SP-DV-03",
+    "amount": "10",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-08",
+    "target": "SP-DV-03",
+    "amount": "200",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-07",
+    "target": "SP-DV-03",
+    "amount": "400",
+    "unit": "µg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-16",
+    "target": "SP-DV-07",
+    "amount": "200",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-22",
+    "target": "SP-DV-09",
+    "amount": "1182",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-09",
+    "target": "SP-DV-11",
+    "amount": "1250",
+    "unit": "mg"
+  },
+  {
+    "type": "E13_포함",
+    "source": "NT-10",
+    "target": "SP-DV-12",
+    "amount": "268",
+    "unit": "mg"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-01",
+    "target": "DL-02"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-01",
+    "target": "DL-01",
+    "condition": "키토 경험자"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-02",
+    "target": "DL-02"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-02",
+    "target": "DL-01",
+    "condition": "키토 경험자"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-03",
+    "target": "DL-03"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-03",
+    "target": "EX-02",
+    "condition": "장마커↑"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-03",
+    "target": "EX-05",
+    "condition": "장마커↑"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-04",
+    "target": "DL-04"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-07",
+    "target": "EX-04",
+    "condition": "해독마커↑"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-02",
+    "target": "EX-03",
+    "condition": "에너지마커↑"
+  },
+  {
+    "type": "E16_추천",
+    "source": "HC-04",
+    "target": "EX-03",
+    "condition": "정신마커↑"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-036",
+    "target": "SP-DV-04",
+    "pathogen_ref": "클로스트리디아",
+    "marker_name": "HPHPA",
+    "product_name": "다빈치랩 ND50"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-036",
+    "target": "SP-06",
+    "pathogen_ref": "클로스트리디아",
+    "marker_name": "HPHPA",
+    "product_name": "썬화이버"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-037",
+    "target": "SP-DV-04",
+    "pathogen_ref": "클로스트리디아",
+    "marker_name": "4-크레졸",
+    "product_name": "다빈치랩 ND50"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-037",
+    "target": "SP-06",
+    "pathogen_ref": "클로스트리디아",
+    "marker_name": "4-크레졸",
+    "product_name": "썬화이버"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-049",
+    "target": "SP-DV-08",
+    "pathogen_ref": "칸디다/효모",
+    "marker_name": "TRTR",
+    "product_name": "다빈치랩 자몽씨추출물"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-049",
+    "target": "SP-06",
+    "pathogen_ref": "칸디다/효모",
+    "marker_name": "TRTR",
+    "product_name": "썬화이버"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-036",
+    "target": "SP-DV-08",
+    "pathogen_ref": "클로스트리디아",
+    "marker_name": "HPHPA",
+    "product_name": "다빈치랩 자몽씨추출물"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-037",
+    "target": "SP-DV-08",
+    "pathogen_ref": "클로스트리디아",
+    "marker_name": "4-크레졸",
+    "product_name": "다빈치랩 자몽씨추출물"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-036",
+    "target": "SP-DV-06",
+    "pathogen_ref": "장점막손상",
+    "marker_name": "HPHPA",
+    "product_name": "다빈치랩 L-글루타민"
+  },
+  {
+    "type": "E17_억제수단",
+    "source": "BM-OA-036",
+    "target": "SP-07",
+    "pathogen_ref": "장내환경",
+    "marker_name": "HPHPA",
+    "product_name": "리셋데이"
+  },
+  {
+    "type": "E18_제품제약",
+    "source": "SP-01",
+    "target": "SP-05",
+    "constraint_type": "총량주의",
+    "nutrient": "마그네슘",
+    "total_amount": "565mg",
+    "description": "Mg315+250=565mg"
+  },
+  {
+    "type": "E18_제품제약",
+    "source": "SP-01",
+    "target": "SP-02",
+    "constraint_type": "시너지",
+    "description": "Mg+B군 에너지시너지"
+  },
+  {
+    "type": "E18_제품제약",
+    "source": "SP-05",
+    "target": "SP-01",
+    "constraint_type": "시너지",
+    "description": "트립토판+B6+Mg 수면시너지"
+  },
+  {
+    "type": "E18_제품제약",
+    "source": "SP-04",
+    "target": "SP-03",
+    "constraint_type": "시너지",
+    "description": "VitC/E+글루타치온 해독시너지"
+  },
+  {
+    "type": "E19_영양소상호작용",
+    "source": "NT-20",
+    "target": "NT-17",
+    "interaction_type": "길항",
+    "description": "동시 섭취 시 흡수 경쟁"
+  },
+  {
+    "type": "E19_영양소상호작용",
+    "source": "NT-09",
+    "target": "NT-20",
+    "interaction_type": "시너지",
+    "description": "동시 섭취 시 철 흡수 촉진"
+  },
+  {
+    "type": "E19_영양소상호작용",
+    "source": "NT-19",
+    "target": "NT-23",
+    "interaction_type": "길항",
+    "description": "동시 섭취 시 흡수 경쟁"
+  },
+  {
+    "type": "E19_영양소상호작용",
+    "source": "NT-18",
+    "target": "NT-10",
+    "interaction_type": "시너지",
+    "description": "항산화 시너지"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-001",
+    "target": "BM-OA-002",
+    "relation_type": "상관",
+    "note": "β-산화 정체 시 함께 상승 (ω-산화 산물)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-002",
+    "target": "BM-OA-003",
+    "relation_type": "심화",
+    "note": "SUB↑ 경미(β-산화정체), +EMA↑ 심각(단쇄까지 병목)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-004",
+    "target": "BM-OA-005",
+    "relation_type": "인과",
+    "note": "PRV↑→PDH 병목→젖산 경로 우회→TLAC↑"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-014",
+    "target": "BM-OA-015",
+    "relation_type": "순차",
+    "note": "TCA: CIT→ACON"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-015",
+    "target": "BM-OA-014",
+    "relation_type": "순차",
+    "note": "TCA: ACON→ISO"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-014",
+    "target": "BM-OA-017",
+    "relation_type": "순차",
+    "note": "TCA: ISO→AKG"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-017",
+    "target": "BM-OA-018",
+    "relation_type": "순차",
+    "note": "TCA: AKG→SUCC"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-018",
+    "target": "BM-OA-019",
+    "relation_type": "순차",
+    "note": "TCA: SUCC→FUM"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-019",
+    "target": "BM-OA-020",
+    "relation_type": "순차",
+    "note": "TCA: FUM→MAL"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-006",
+    "target": "BM-OA-010",
+    "relation_type": "세트",
+    "note": "BCAA 3종(류신/이소류신/발린) 초입 케토산 세트"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-006",
+    "target": "BM-OA-012",
+    "relation_type": "세트",
+    "note": "BCAA 3종 초입 케토산 세트"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-006",
+    "target": "BM-OA-007",
+    "relation_type": "순차",
+    "note": "류신 대사: KIC→...→3HIV(비오틴 의존)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-008",
+    "target": "BM-OA-009",
+    "relation_type": "세트",
+    "note": "류신 하류 누수(3MG) + 우회(HICA)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-021",
+    "target": "BM-OA-022",
+    "relation_type": "세트",
+    "note": "케톤 생성(BHB) + 대사 효율(3HMG) 함께 평가"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-006",
+    "target": "BM-OA-017",
+    "relation_type": "교차",
+    "note": "BCAA(KIC)→TCA(AKG) 교차. 동시↑시 복합 병목"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-011",
+    "target": "BM-OA-014",
+    "relation_type": "교차",
+    "note": "프로피오닐-CoA(MCA)가 CIT 합성효소 저해→CIT↓"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-036",
+    "target": "BM-OA-037",
+    "relation_type": "세트",
+    "note": "클로스트리디아 유해균 지표 세트"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-038",
+    "target": "BM-OA-036",
+    "relation_type": "세트",
+    "note": "클로스트리디아 관련 마커 세트"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-029",
+    "target": "BM-OA-030",
+    "relation_type": "교차",
+    "note": "트립토판 대사 두 분기(세로토닌 vs 키누레닌)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-027",
+    "target": "BM-OA-028",
+    "relation_type": "교차",
+    "note": "키누레닌 경로 내 분기(독성QUIN vs 보호PCL)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-027",
+    "target": "BM-OA-030",
+    "relation_type": "교차",
+    "note": "키누레닌 경로 내(흥분성QUIN vs 억제KYNA)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-034",
+    "target": "BM-OA-035",
+    "relation_type": "순차",
+    "note": "도파민(HVA)→노르에피네프린(VMA) 순차 대사"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-060",
+    "target": "BM-OA-025",
+    "relation_type": "상관",
+    "note": "독소/해독 부하 시 함께 상승"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-045",
+    "target": "BM-OA-047",
+    "relation_type": "인과",
+    "note": "BENZ(독소 노출)→간 해독→HIPP(해독 산물)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-046",
+    "target": "BM-OA-048",
+    "relation_type": "인과",
+    "note": "4HBZ(독소 노출)→간 해독→4HIPP(해독 산물)"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-049",
+    "target": "BM-OA-020",
+    "relation_type": "세트",
+    "note": "칸디다/효모 감염 지표 세트"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-051",
+    "target": "BM-OA-052",
+    "relation_type": "세트",
+    "note": "아스퍼길루스 감염 지표 세트"
+  },
+  {
+    "type": "E02_마커간",
+    "source": "BM-OA-063",
+    "target": "BM-OA-063",
+    "relation_type": "세트",
+    "note": "콜라겐 합성(리신 대사) 세트"
+  }
+]

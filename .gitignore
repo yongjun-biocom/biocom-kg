@@ -1,0 +1,24 @@
+# 환경변수 (API 키 — 절대 커밋하지 말 것)
+.env
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 개발 도구
+.vscode/
+.idea/
+
+# 임시 파일
+*.tmp
+*.log
+test_out.json
+xlsx_preview.txt
+
+# Excel 원본 (용량 크고 민감할 수 있음)
+온톨로지_지식그래프.xlsx
+
+# Docker (클라우드 불필요)
+docker-compose.yml
