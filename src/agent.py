@@ -153,8 +153,6 @@ TOOLS = [
 class AgentToolExecutor:
     def __init__(self, engine):
         self.engine = engine
-        self._nodes = engine._nodes
-        self._edges = engine._edges
 
     def execute(self, tool_name, tool_input):
         try:
@@ -185,56 +183,31 @@ class AgentToolExecutor:
             return f"오류: {e}"
 
     def _get_all_markers(self):
-        markers = [(n["id"], n["name"], n.get("mid", ""), n.get("character", ""))
-                   for n in self._nodes.values() if n.get("type") == "유기산마커"]
-        return "\n".join(f"{m[0]} | {m[1]} | {m[2]} | {m[3]}" for m in markers)
+        markers = self.engine.get_all_markers()
+        if not markers:
+            return "마커 목록을 불러올 수 없습니다."
+        return "\n".join(
+            f"{m['id']} | {m['name']} | {m.get('mid','')} | {m.get('character','')}"
+            for m in markers
+        )
 
     def _find_marker(self, query):
-        q = query.lower()
-        found = []
-        for n in self._nodes.values():
-            if n.get("type") != "유기산마커":
-                continue
-            searchable = " ".join(str(v) for v in n.values() if v).lower()
-            if q in searchable:
-                found.append({k: v for k, v in n.items()
-                              if k not in ("high_interpretation", "mechanism", "discordance_notes") and v})
+        found = self.engine.find_marker(query)
         if not found:
             return f"'{query}'에 해당하는 마커를 찾지 못했습니다."
-        return json.dumps(found, ensure_ascii=False, indent=2)
+        # 상세 필드 제거 후 반환
+        filtered = [
+            {k: v for k, v in m.items()
+             if k not in ("high_interpretation", "mechanism", "discordance_notes") and v}
+            for m in found
+        ]
+        return json.dumps(filtered, ensure_ascii=False, indent=2)
 
     def _get_marker_detail(self, marker_id):
-        n = self._nodes.get(marker_id)
-        if not n:
+        detail = self.engine.get_marker_detail(marker_id)
+        if not detail:
             return f"마커 '{marker_id}'를 찾을 수 없습니다."
-
-        # 관련 효소
-        enzymes = [self._nodes.get(e["target"], {}).get("name", e["target"])
-                   for e in self._edges if e["source"] == marker_id and e["type"] == "E08_관련효소"]
-        # 필요 영양소 (직접)
-        nutrients = [(self._nodes.get(e["target"], {}).get("name", e["target"]),
-                      e.get("evidence_level"), e.get("basis"))
-                     for e in self._edges if e["source"] == marker_id and e["type"] == "E09_필요영양소"]
-        # 관련 관심사
-        concerns = [(self._nodes.get(e["target"], {}).get("name", e["target"]),
-                     e.get("evidence_level"))
-                    for e in self._edges if e["source"] == marker_id and e["type"] == "E12_관련관심사"]
-        # 마커간 관계
-        from path_engine import get_marker_relations
-        relations = get_marker_relations(self._nodes, self._edges, marker_id)
-
-        result = {
-            "id": n["id"],
-            "name": n.get("name"),
-            "character": n.get("character"),
-            "mechanism": n.get("mechanism"),
-            "high_interpretation": n.get("high_interpretation"),
-            "related_enzymes": enzymes,
-            "required_nutrients": [{"name": nm, "evidence": ev, "basis": bs} for nm, ev, bs in nutrients],
-            "related_concerns": [{"name": nm, "evidence": ev} for nm, ev in concerns],
-            "marker_relations": relations,
-        }
-        return json.dumps(result, ensure_ascii=False, indent=2)
+        return json.dumps(detail, ensure_ascii=False, indent=2)
 
     def _get_supplement_recommendation(self, marker_ids):
         supps = self.engine.recommend_supplements(marker_ids)
@@ -242,7 +215,7 @@ class AgentToolExecutor:
             return "연결된 건기식 경로가 없습니다."
         lines = []
         for p in supps:
-            lines.append(f"\n[{p['reach']}] {p['product']}")
+            lines.append(f"\n[{p['reach']}] {p['supplement_name']}")
             if p.get("concept"):
                 lines.append(f"  구성: {p['concept']}")
             if p.get("dosage"):
@@ -279,63 +252,20 @@ class AgentToolExecutor:
         return "\n".join(lines)
 
     def _get_product_info(self, product_name):
-        q = product_name.lower()
-        found = [n for n in self._nodes.values()
-                 if n.get("label") in ("Supplement", "DietLine")
-                 and q in n.get("name", "").lower()]
+        found = self.engine.get_product_info(product_name)
         if not found:
             return f"'{product_name}' 제품을 찾지 못했습니다."
-
-        result = []
-        for p in found:
-            pid = p["id"]
-            # 포함 영양소
-            nutrients = [(self._nodes.get(e["source"], {}).get("name", e["source"]),
-                          e.get("amount"), e.get("unit"))
-                         for e in self._edges if e["target"] == pid and e["type"] == "E13_포함"]
-            # 제품 제약
-            constraints = [e for e in self._edges
-                           if (e["source"] == pid or e["target"] == pid)
-                           and e["type"] == "E18_제품제약"]
-            constraint_info = []
-            for c in constraints:
-                other = c["target"] if c["source"] == pid else c["source"]
-                constraint_info.append({
-                    "product": self._nodes.get(other, {}).get("name", other),
-                    "type": c.get("constraint_type"),
-                    "description": c.get("description"),
-                })
-
-            result.append({
-                "id": pid,
-                "name": p.get("name"),
-                "type": p.get("solution_type", p.get("type")),
-                "concept": p.get("concept"),
-                "dosage": p.get("dosage"),
-                "contraindication": p.get("contraindication"),
-                "nutrients": [{"name": nm, "amount": am, "unit": un} for nm, am, un in nutrients],
-                "interactions": constraint_info,
-            })
-        return json.dumps(result, ensure_ascii=False, indent=2)
+        return json.dumps(found, ensure_ascii=False, indent=2)
 
     def _get_nutrient_interactions(self, nutrient_name):
-        q = nutrient_name.lower()
-        found_ids = [nid for nid, n in self._nodes.items()
-                     if n.get("type") == "영양소" and q in n.get("name", "").lower()]
-        if not found_ids:
-            return f"'{nutrient_name}' 영양소를 찾지 못했습니다."
-
-        lines = []
-        for nid in found_ids:
-            name = self._nodes[nid].get("name", nid)
-            interactions = [e for e in self._edges
-                            if e["type"] == "E19_영양소상호작용"
-                            and (e["source"] == nid or e["target"] == nid)]
-            for e in interactions:
-                other_id = e["target"] if e["source"] == nid else e["source"]
-                other_name = self._nodes.get(other_id, {}).get("name", other_id)
-                lines.append(f"{name} ↔ {other_name}: {e.get('interaction_type')} — {e.get('description')}")
-        return "\n".join(lines) if lines else f"'{nutrient_name}'의 상호작용 정보가 없습니다."
+        rows = self.engine.get_nutrient_interactions(nutrient_name)
+        if not rows:
+            return f"'{nutrient_name}'의 상호작용 정보가 없습니다."
+        lines = [
+            f"{r['name']} ↔ {r['other_name']}: {r.get('interaction_type')} — {r.get('description')}"
+            for r in rows
+        ]
+        return "\n".join(lines)
 
     def _run_full_analysis(self, marker_ids, directions):
         result = self.engine.run_all(marker_ids, directions or {})
