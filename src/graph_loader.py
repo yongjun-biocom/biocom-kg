@@ -5,10 +5,13 @@ graph_loader.py — nodes.json / edges.json 를 읽어 Neo4j에 적재
 import json
 import os
 from neo4j import GraphDatabase
+from dotenv import load_dotenv
 
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "biocom2024")
+load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
+
+NEO4J_URI = os.getenv("NEO4J_URI", "neo4j+ssc://5b472a40.databases.neo4j.io")
+NEO4J_USER = os.getenv("NEO4J_USERNAME", "neo4j")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "")
 
 LABEL_MAP = {
     "검사": "Exam",
@@ -23,6 +26,7 @@ LABEL_MAP = {
 
 REL_MAP = {
     "E01_측정": "MEASURES",
+    "E02_마커간": "MARKER_RELATION",
     "E08_관련효소": "INVOLVES_ENZYME",
     "E09_필요영양소": "REQUIRES_NUTRIENT",
     "E10_조효소": "COFACTOR_OF",
@@ -30,6 +34,9 @@ REL_MAP = {
     "E12_관련관심사": "RELATES_TO_CONCERN",
     "E13_포함": "CONTAINS",
     "E16_추천": "RECOMMENDS",
+    "E17_억제수단": "SUPPRESSES",
+    "E18_제품제약": "PRODUCT_CONSTRAINT",
+    "E19_영양소상호작용": "NUTRIENT_INTERACTION",
 }
 
 
